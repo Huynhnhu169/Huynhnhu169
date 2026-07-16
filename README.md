@@ -63,6 +63,12 @@ My current portfolio includes clean work-in-progress repositories in RAG applica
 - Cleaning ML repositories so they include configs, reproducible commands, tests, and honest result reports
 - Exploring future mobile AI deployment workflows
 
+## Research Profile
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--2079--7543-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-2079-7543)
+
+I use ORCID to maintain a persistent researcher identity across academic and technical work. Published research outputs will be kept updated on my ORCID profile as they become available.
+
 ## GitHub Stats
 
 <div align="center">
