@@ -84,8 +84,8 @@ I use ORCID to maintain a persistent researcher identity across academic and tec
 ## Contact
 
 - GitHub: [github.com/Huynhnhu169](https://github.com/Huynhnhu169)
-- Email: `your-email@example.com`
-- LinkedIn: `your-linkedin-url`
+- Email: `nhuhuynhlethi1508@gmail.com`
+- LinkedIn: `www.linkedin.com/in/nhu-le-thi-huynh-947736218`
 - Portfolio: `optional-portfolio-url`
 
 ---
