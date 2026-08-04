@@ -22,11 +22,11 @@ My current portfolio includes clean work-in-progress repositories in RAG applica
 
 | Project | Area | Tech Stack | Highlights | Status |
 |---|---|---|---|---|
+| [Speech Emotion Recognition](https://github.com/Huynhnhu169/Emotion_Recognition) | Audio ML / Deep Learning | Python, TensorFlow/Keras, librosa | Audio preprocessing, train-only augmentation, leakage-safe split design, corrected evaluation protocol | Metrics pending |
 | [Vietnamese Stock News RAG Assistant](https://github.com/Huynhnhu169/vietnamese-stock-news-rag) | NLP / RAG / LLM App | Python, FAISS, BM25, LaBSE, Gemini, Streamlit | Hybrid retrieval over Vietnamese stock news, Streamlit demo, retrieval and latency evaluation | Clean prototype |
 | [2048 AI Solver](https://github.com/Huynhnhu169/2048_ai_solver) | Algorithms / Game AI | Python, Expectimax, heuristics, pytest | 2048 engine, Expectimax search, heuristic evaluation, benchmark scripts, and tests | Benchmark-ready |
 | [Caro 7x7 DQN Agent](https://github.com/Huynhnhu169/caro7x7-dqn-agent) | Reinforcement Learning / Game AI | Python, PyTorch, DQN, Tkinter | 7x7 Caro environment, action masking, tactical heuristics, curriculum learning design, evaluation pipeline | Clean WIP |
 | [Steam Games Recommendation](https://github.com/Huynhnhu169/Steam_games_recommendation) | Recommender Systems | Python, pandas, scikit-learn, KNN | Collaborative filtering, popularity baseline, top-K ranking metrics, leakage-safe evaluation design | Metrics pending |
-| [Speech Emotion Recognition](https://github.com/Huynhnhu169/Emotion_Recognition) | Audio ML / Deep Learning | Python, TensorFlow/Keras, librosa | Audio preprocessing, train-only augmentation, leakage-safe split design, corrected evaluation protocol | Metrics pending |
 
 ## Tech Stack
 
