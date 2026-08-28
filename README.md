@@ -66,13 +66,11 @@ OpenCV · YOLO · Ultralytics · instance segmentation · ONNX · TensorFlow Lit
 
 ## GitHub Activity
 
-<div align="center">
+- 📦 [Explore my repositories](https://github.com/Huynhnhu169?tab=repositories)
+- 🧪 [See recent contributions](https://github.com/Huynhnhu169?tab=overview&from=2026-01-01&to=2026-12-31)
+- 🌐 [Open my AI portfolio](https://huynhnhu169.github.io/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huynhnhu169&show_icons=true&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Huynhnhu169&layout=compact&hide_border=true)
-
-</div>
+My repositories prioritize readable documentation, reproducible workflows, tests where applicable, and candid reporting of incomplete results.
 
 ## Contact
 
