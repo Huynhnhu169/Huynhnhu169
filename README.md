@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/profile-banner.png" width="100%" alt="Abstract glass signal loop on a powder-blue technical grid">
+
 # Le Thi Huynh Nhu
 
 ### AI Engineering · Vietnamese NLP · RAG · Computer Vision
@@ -10,7 +12,11 @@ Final-year Artificial Intelligence student at FPT University Can Tho, building r
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhu-le-thi-huynh-947736218)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--2079--7543-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-2079-7543)
 
+<sub><a href="#about">ABOUT</a> · <a href="#selected-projects">PROJECTS</a> · <a href="#research">RESEARCH</a> · <a href="#technical-toolkit">TOOLKIT</a> · <a href="#contact">CONTACT</a></sub>
+
 </div>
+
+---
 
 ## About
 
@@ -20,6 +26,16 @@ I work across Vietnamese NLP, retrieval-augmented generation, computer vision, a
 - Bachelor of Artificial Intelligence, expected October 2026
 - Interested in entry-level AI Engineer, Machine Learning, NLP/GenAI, and Computer Vision roles
 - Portfolio: **[huynhnhu169.github.io](https://huynhnhu169.github.io/)**
+
+<table>
+  <tr>
+    <td><strong>Current focus</strong><br>Vietnamese NLP · RAG · Computer Vision</td>
+    <td><strong>Engineering style</strong><br>Reproducible · Leakage-aware · Evidence-led</td>
+    <td><strong>Open to</strong><br>Fresher and entry-level AI roles</td>
+  </tr>
+</table>
+
+> I build AI systems with evidence, not inflated claims.
 
 ## Selected Projects
 
@@ -40,11 +56,15 @@ I work across Vietnamese NLP, retrieval-augmented generation, computer vision, a
 
 Source code and implementation details for private academic work are available for discussion where appropriate.
 
+---
+
 ## Research
 
 - **First author:** *The Rapid Development of AI and Its Impact on Technologically Lagging Students*, ICETM proceedings, 2025. [DOI](https://doi.org/10.1145/3711403.3711446)
 - **Co-author:** *Emotion Recognition in Speech Using CNN-LSTM Networks with Data Augmentation and Optimization Techniques*, Journal of Science and Development Economics, 2026. [DOI](https://doi.org/10.64632/jsde.39.2026.935)
 - **First author:** *Attention-Enhanced YOLO-Nano for Adverse Weather Object Detection*, accepted and presented at CSoNet 2025; final publication metadata pending.
+
+---
 
 ## Technical Toolkit
 
@@ -64,6 +84,8 @@ PhoBERT · Sentence Transformers · LaBSE · FAISS · BM25 · hybrid retrieval �
 
 OpenCV · YOLO · Ultralytics · instance segmentation · ONNX · TensorFlow Lite · FP16/INT8 workflows
 
+---
+
 ## GitHub Activity
 
 - 📦 [Explore my repositories](https://github.com/Huynhnhu169?tab=repositories)
@@ -71,6 +93,8 @@ OpenCV · YOLO · Ultralytics · instance segmentation · ONNX · TensorFlow Lit
 - 🌐 [Open my AI portfolio](https://huynhnhu169.github.io/)
 
 My repositories prioritize readable documentation, reproducible workflows, tests where applicable, and candid reporting of incomplete results.
+
+---
 
 ## Contact
 
@@ -80,8 +104,4 @@ My repositories prioritize readable documentation, reproducible workflows, tests
 
 ---
 
-<div align="center">
-
-**Building AI systems with evidence, not inflated claims.**
-
-</div>
+<div align="center"><sub>DESIGNED WITH CURIOSITY · BUILT WITH EVIDENCE · 2026</sub></div>
